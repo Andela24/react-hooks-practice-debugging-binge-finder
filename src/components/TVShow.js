@@ -1,6 +1,6 @@
 import React from "react";
 
-function tvShow() {
+function tvShow(props) {
   return (
     <div>
       <br />
